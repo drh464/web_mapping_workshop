@@ -16,10 +16,10 @@ var dataFileToAdd = 'data/Howell.geojson';
 
 var featureLayer = L.mapbox.featureLayer();
     
-    featureLayer.loadUrl(dataFileToAdd);
+    featureLayer.loadURL(dataFileToAdd);
     featureLayer.addTo(map);
     
-featureLayer.on('ready' function(){
+featureLayer.on('ready', function(){
   this.setStyle({
     "stoke": #000000,
     "stroke-width": 2,
