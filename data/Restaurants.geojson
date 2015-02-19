@@ -1,0 +1,689 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-02-19T20:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/358063080",
+      "properties": {
+        "@id": "node/358063080",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "ele": "339",
+        "gnis:county_id": "161",
+        "gnis:created": "10/24/1980",
+        "gnis:feature_id": "748791",
+        "gnis:state_id": "29",
+        "name": "Miller's Grill at Benton Square",
+        "website": "http://bentonsquare.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7671022,
+          37.9480971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1258813042",
+      "properties": {
+        "@id": "node/1258813042",
+        "amenity": "restaurant",
+        "name": "Dairy Queen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3856343,
+          36.3388397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1532420975",
+      "properties": {
+        "@id": "node/1532420975",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Steak and Shake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7652304,
+          37.9632859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1532456104",
+      "properties": {
+        "@id": "node/1532456104",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Los Cazadores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7900409,
+          37.9444418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1656130218",
+      "properties": {
+        "@id": "node/1656130218",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Ray J's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.777635,
+          37.9446535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1676884569",
+      "properties": {
+        "@id": "node/1676884569",
+        "amenity": "restaurant",
+        "cuisine": "ice_cream",
+        "name": "Lady Queene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6184724,
+          37.7737825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2219689074",
+      "properties": {
+        "@id": "node/2219689074",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6628552,
+          38.126659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496600614",
+      "properties": {
+        "@id": "node/2496600614",
+        "amenity": "restaurant",
+        "name": "Waffle House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1411829,
+          37.8220506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496805267",
+      "properties": {
+        "@id": "node/2496805267",
+        "amenity": "restaurant",
+        "name": "Ruby Tuesday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1470677,
+          37.8242816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496814053",
+      "properties": {
+        "@id": "node/2496814053",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1463462,
+          37.8245613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2531433723",
+      "properties": {
+        "@id": "node/2531433723",
+        "addr:city": "Rolla",
+        "addr:housenumber": "601",
+        "addr:postcode": "65401",
+        "addr:street": "Kingshighway",
+        "amenity": "restaurant",
+        "cuisine": "pie",
+        "name": "A Slice of Pie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7751972,
+          37.9480112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2542269730",
+      "properties": {
+        "@id": "node/2542269730",
+        "amenity": "restaurant",
+        "name": "Huzzah Bob's Dining Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.202621,
+          37.9621285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2678014939",
+      "properties": {
+        "@id": "node/2678014939",
+        "addr:city": "St. Robert, Mo",
+        "addr:housename": "Cracker Barrel",
+        "addr:housenumber": "128",
+        "addr:postcode": "65584",
+        "addr:street": "St. Robert Blvd.",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Cracker Barrel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1452626,
+          37.8255042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2678016752",
+      "properties": {
+        "@id": "node/2678016752",
+        "addr:city": "St. Robert, Mo",
+        "addr:housename": "Diner",
+        "addr:housenumber": "126",
+        "addr:postcode": "65584",
+        "addr:street": "St. Robert Blvd.",
+        "amenity": "restaurant",
+        "cuisine": "Regional",
+        "name": "Diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1450266,
+          37.8261525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780757976",
+      "properties": {
+        "@id": "node/2780757976",
+        "amenity": "restaurant",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4435707,
+          37.7732845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780792547",
+      "properties": {
+        "@id": "node/2780792547",
+        "amenity": "restaurant",
+        "name": "Beach Club BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4894774,
+          36.31855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780792549",
+      "properties": {
+        "@id": "node/2780792549",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Downhome Country Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.487167,
+          36.3159939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780795787",
+      "properties": {
+        "@id": "node/2780795787",
+        "amenity": "restaurant",
+        "name": "KFC/Taco Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5156693,
+          36.2671181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2805197949",
+      "properties": {
+        "@id": "node/2805197949",
+        "amenity": "restaurant",
+        "cuisine": "Pizza",
+        "name": "Casey's Carry Out Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7612931,
+          37.9406816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884262006",
+      "properties": {
+        "@id": "node/2884262006",
+        "addr:city": "Poplar Bluff, MO",
+        "addr:housenumber": "807",
+        "addr:postcode": "63901",
+        "addr:street": "West Maud Street",
+        "amenity": "restaurant",
+        "cuisine": "BBQ_and_Burgers",
+        "name": "Hayden's Drive-In"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4003915,
+          36.7627436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884284950",
+      "properties": {
+        "@id": "node/2884284950",
+        "amenity": "restaurant",
+        "cuisine": "Roast_Beef_& other sanwiches",
+        "name": "Arby's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4081378,
+          36.7581903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884288062",
+      "properties": {
+        "@id": "node/2884288062",
+        "amenity": "restaurant",
+        "name": "Dexter BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4082665,
+          36.7575585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884290219",
+      "properties": {
+        "@id": "node/2884290219",
+        "amenity": "restaurant",
+        "name": "Hardee's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4081914,
+          36.7570814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884295276",
+      "properties": {
+        "@id": "node/2884295276",
+        "amenity": "restaurant",
+        "name": "Applebee's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.410069,
+          36.7486399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884302586",
+      "properties": {
+        "@id": "node/2884302586",
+        "amenity": "restaurant",
+        "name": "Taco Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4072365,
+          36.7568622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884302906",
+      "properties": {
+        "@id": "node/2884302906",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Maya's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4105142,
+          36.747978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884303944",
+      "properties": {
+        "@id": "node/2884303944",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Sonic Drive In"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4078159,
+          36.7555299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884340459",
+      "properties": {
+        "@id": "node/2884340459",
+        "amenity": "restaurant",
+        "name": "Popeye's Louisiana Chicken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4158303,
+          36.7676728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884340867",
+      "properties": {
+        "@id": "node/2884340867",
+        "amenity": "restaurant",
+        "name": "El Alcapulco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4248962,
+          36.7812166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884341827",
+      "properties": {
+        "@id": "node/2884341827",
+        "amenity": "restaurant",
+        "name": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4164794,
+          36.7675911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884342206",
+      "properties": {
+        "@id": "node/2884342206",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Wendy's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4149559,
+          36.7683088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884346358",
+      "properties": {
+        "@id": "node/2884346358",
+        "amenity": "restaurant",
+        "cuisine": "sandwiches_/_lunch fare",
+        "name": "Cafe on the Run"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4209909,
+          36.77695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884346834",
+      "properties": {
+        "@id": "node/2884346834",
+        "amenity": "restaurant",
+        "name": "China Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4213986,
+          36.7767524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884348349",
+      "properties": {
+        "@id": "node/2884348349",
+        "amenity": "restaurant",
+        "name": "Five Star Chinese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4235444,
+          36.7774055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884357815",
+      "properties": {
+        "@id": "node/2884357815",
+        "amenity": "restaurant",
+        "name": "Colton's Steak House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.423657,
+          36.7794464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884361316",
+      "properties": {
+        "@id": "node/2884361316",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Las Margaritas",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4218921,
+          36.7797042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884365947",
+      "properties": {
+        "@id": "node/2884365947",
+        "amenity": "restaurant",
+        "name": "Dairy Queen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4284635,
+          36.785311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3271653847",
+      "properties": {
+        "@id": "node/3271653847",
+        "addr:city": "West Plains",
+        "addr:housenumber": "37",
+        "addr:postcode": "65775",
+        "addr:state": "MO",
+        "addr:street": "Court Square",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Cafe 37",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8531425,
+          36.7280242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3271688227",
+      "properties": {
+        "@id": "node/3271688227",
+        "addr:city": "West Plains",
+        "addr:housenumber": "36",
+        "addr:postcode": "65775",
+        "addr:state": "MO",
+        "addr:street": "Court Square",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Ropers Salon",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8531425,
+          36.7280242
+        ]
+      }
+    }
+  ]
+}
