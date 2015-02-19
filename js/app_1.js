@@ -21,10 +21,10 @@ var featureLayer = L.mapbox.featureLayer();
     
 featureLayer.on('ready', function(){
   this.setStyle({
-    "stoke": #000000,
+    "stroke": "#000000",
     "stroke-width": 2,
-    "storke-opacity": 1,
-    "fill": #555555,
+    "stroke-opacity": 1,
+    "fill": "#555555",
     "fill-opacity": 0.5
     
     });
