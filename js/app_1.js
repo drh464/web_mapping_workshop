@@ -25,7 +25,7 @@ featureLayer.on('ready', function(){
     "stroke-width": 2,
     "storke-opacity": 1,
     "fill": #555555,
-    "fill-opacity": 0.5,
+    "fill-opacity": 0.5
     
     });
     map.fitBounds(featureLayer.getBounds());
