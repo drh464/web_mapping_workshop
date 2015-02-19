@@ -28,7 +28,7 @@ featureLayer.on('ready', function(){
     "fill-opacity": 0.5
     
     });
-    map.fitBounds(featureLayer.getBounds());
+    
 });
 
 var dataFileToAdd2 = 'data/Restaurants.geojson';
@@ -45,6 +45,7 @@ featureLayer2.on('ready', function(){
     "marker-symbol": "circle"
     
     });
+    map.fitBounds(featureLayer.getBounds());
 })
 
 ///////////////////////////////////////////////////////////////////////////
