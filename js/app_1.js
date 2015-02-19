@@ -31,4 +31,19 @@ featureLayer.on('ready', function(){
     map.fitBounds(featureLayer.getBounds());
 });
 
+var dataFileToAdd2 = 'data/Restaurants.geojson';
+
+var featureLayer = L.mapbox.featureLayer();
+    
+    featureLayer2.loadURL(dataFileToAdd);
+    featureLayer2.addTo(map);
+    
+featureLayer2.on('ready', function(){
+  this.setStyle({
+    "marker-color": "#7e7e7e",
+    "marker-size": "medium",
+    "marker-symbol": "circle"
+    
+    });
+
 ///////////////////////////////////////////////////////////////////////////
