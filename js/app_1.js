@@ -38,5 +38,6 @@ featureLayer.on('ready', function(){
 featureLayer.on('ready', function(){
    this.eachLayer(function(layer){
        layer.bindPopup('Name: ' + layer.feature.properties.Name);
+       console.log(layer.feature.properties)
    }); 
 });
