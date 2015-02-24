@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "Mercy EMS",
+        "entity_type": "EMS",
+        "entity_address": "102 E US Highway 60",
+        "entity_city": "Mountain View",
+        "entity_zip": 65548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.70210838317871,
+          37.00297250994775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "Mountain View Police Department",
+        "entity_type": "Law Enforcement",
+        "entity_address": "233 W 2nd St",
+        "entity_city": "Mountain View",
+        "entity_zip": 65548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.70384913682938,
+          36.99540436386182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "Mountain View Fire Department",
+        "entity_type": "Fire Department",
+        "entity_address": "1313 W Fifth St",
+        "entity_city": "Mountain View ",
+        "entity_zip": 65548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.71786904335022,
+          36.99765582144097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "11 Point Fire Department Station 2",
+        "entity_type": "Fire Department",
+        "entity_address": "2714 State Route U",
+        "entity_city": "Willow Springs",
+        "entity_zip": 65793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.88331842422485,
+          36.955085354449764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "11 Point Fire Department Station 1",
+        "entity_type": "Fire Department",
+        "entity_address": "E Main St",
+        "entity_city": "Willow Springs",
+        "entity_zip": 65793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.95330530405043,
+          36.98030652257473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "Willow Springs Ambulance",
+        "entity_type": "EMS",
+        "entity_address": "540 E Main St ",
+        "entity_city": "Willow Springs",
+        "entity_zip": 65793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9663542509079,
+          36.98957939885299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "Willow Springs Fire Department",
+        "entity_type": "Fire Department",
+        "entity_address": "700 W Main St",
+        "entity_city": "Willow Springs",
+        "entity_zip": 65793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9758278131485,
+          37.00017497563534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "entity_name": "Willow Springs Police Department",
+        "entity_type": "Law Enforcement",
+        "entity_address": "700 W Main St",
+        "entity_city": "Willow Springs",
+        "entity_zip": 65793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.97595655918121,
+          37.0003891855771
+        ]
+      }
+    }
+  ]
+}
